@@ -29,3 +29,11 @@ Environment: Jupyter Notebook / Google Colab
 The dataset used in this analysis contains information on electric vehicles, including columns such as VIN, County, City, State, Model Year, Make, Electric Range, Base MSRP, and more. The data was processed to handle missing values and convert necessary columns to appropriate data types.
 
 
+## result 
+
+![image](https://github.com/user-attachments/assets/ddd43a1d-ebd7-4eb8-adba-aee223abd14c)
+
+![image](https://github.com/user-attachments/assets/f12c24ba-70b0-4c28-9cbf-47162012cf99)
+
+
+
