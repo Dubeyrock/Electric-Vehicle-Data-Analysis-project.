@@ -1,6 +1,6 @@
 # Electric-Vehicle-Data-Analysis-project.
 
-## Electric Vehicle Data Analysis
+
 
 ## Overview
 
@@ -8,18 +8,21 @@ This project focuses on analyzing electric vehicle (EV) data to uncover trends, 
 
 ## Features
 
-## Exploratory Data Analysis (EDA): Conducted a thorough analysis of the dataset to identify patterns and correlations among different variables.
+ Exploratory Data Analysis (EDA): Conducted a thorough analysis of the dataset to identify patterns and correlations among different variables.
 
-## Choropleth Visualization: Created an interactive choropleth map using Plotly to display the number of electric vehicles based on location (e.g., by state).
+ Choropleth Visualization: Created an interactive choropleth map using Plotly to display the number of electric vehicles based on location (e.g., by state).
 
-## Racing Bar Plot: Developed an animated racing bar plot to showcase the count of different EV makes over the years, highlighting market trends and consumer preferences.
-## 3D Visualizations: Designed 3D visualizations to represent the relationships between electric range, base MSRP, and various makes.
+ Racing Bar Plot: Developed an animated racing bar plot to showcase the count of different EV makes over the years, highlighting market trends and consumer preferences.
+ 3D Visualizations: Designed 3D visualizations to represent the relationships between electric range, base MSRP, and various makes.
 
 ## Tools & Libraries
 
 Programming Language: Python
+
 Data Manipulation: Pandas
+
 Data Visualization: Matplotlib, Seaborn, Plotly
+
 Environment: Jupyter Notebook / Google Colab
 
 ## Dataset
